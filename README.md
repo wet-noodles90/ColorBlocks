@@ -30,3 +30,7 @@ When giving the block a redstone signal, the block will change color depending o
  - 15 - white 
 
 This block also can only be collected by a pickaxe with silk touch. This mod is intended for redstone but can be used in building as well.
+
+## Bugs, Glitches and Issues
+
+If there are any problems with this mod, report it [here](https://github.com/wet-noodles90/ColorBlocks/issues).
