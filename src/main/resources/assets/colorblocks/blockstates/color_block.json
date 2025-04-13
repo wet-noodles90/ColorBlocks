@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "color=0": {
+      "model": "colorblocks:block/color_block"
+    },
+    "color=1": {
+      "model": "colorblocks:block/color_block_1"
+    },
+    "color=2": {
+      "model": "colorblocks:block/color_block_2"
+    },
+    "color=3": {
+      "model": "colorblocks:block/color_block_3"
+    },
+    "color=4": {
+      "model": "colorblocks:block/color_block_4"
+    },
+    "color=5": {
+      "model": "colorblocks:block/color_block_5"
+    },
+    "color=6": {
+      "model": "colorblocks:block/color_block_6"
+    },
+    "color=7": {
+      "model": "colorblocks:block/color_block_7"
+    },
+    "color=8": {
+      "model": "colorblocks:block/color_block_8"
+    },
+    "color=9": {
+      "model": "colorblocks:block/color_block_9"
+    },
+    "color=10": {
+      "model": "colorblocks:block/color_block_10"
+    },
+    "color=11": {
+      "model": "colorblocks:block/color_block_11"
+    },
+    "color=12": {
+      "model": "colorblocks:block/color_block_12"
+    },
+    "color=13": {
+      "model": "colorblocks:block/color_block_13"
+    },
+    "color=14": {
+      "model": "colorblocks:block/color_block_14"
+    },
+    "color=15": {
+      "model": "colorblocks:block/color_block_15"
+    }
+  }
+}

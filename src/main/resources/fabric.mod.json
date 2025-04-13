@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "colorblocks",
+	"version": "${version}",
+	"name": "Color Blocks",
+	"description": "Adding a simple yet important block to Minecraft redstone.",
+	"authors": [
+		"HotdoGuy90"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/color-blocks",
+		"sources": "https://github.com/HotdoGuy90/ColorBlocks"
+	},
+	"license": "MIT",
+	"icon": "assets/colorblocks/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.hotdoguy90.colorblocks.ColorBlocks"
+		],
+		"fabric-datagen": [
+			"net.hotdoguy90.colorblocks.ColorBlocksDataGenerator"
+		],
+		"client": [
+			"net.hotdoguy90.colorblocks.ColorBlocksClient"
+		]
+	},
+	"mixins": [
+		"colorblocks.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
